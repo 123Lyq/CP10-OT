@@ -16,4 +16,4 @@ Image_to_vedio.cpp: You can use this cpp to combine frames into a video and then
 
 The dataset(both original images and images after processing) is available on https://drive.google.com/open?id=1pxpIRqGV1noZB5EhxF56ziZy1LjRbeQA.
 
-If have any problem,please email to 13421257256@gmail.com or 1475803350@qq.com
+If have any problem,please email to lyq13421257256@gmail.com or 1475803350@qq.com
